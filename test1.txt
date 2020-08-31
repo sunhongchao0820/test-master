@@ -1,3 +1,7 @@
 dev分支修改第一行
 
+<<<<<<< HEAD
 gittest更新
+=======
+gittest1更新
+>>>>>>> 36d1628d8416f6decca8c3b7fae8429698b1d42f
